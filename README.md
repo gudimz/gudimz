@@ -44,6 +44,8 @@ I am a C++/Java Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudimz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 [![agigi's 42 stats](https://badge42.vercel.app/api/v2/cl3q4u0r5005409lils03jkws/stats?cursusId=21&coalitionId=92)](https://github.com/JaeSeoKim/badge42)
 
 
