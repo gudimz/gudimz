@@ -46,6 +46,10 @@ I am a C++/Java Developer.
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/gudimz?theme=dark&font=Fira%20Code)
+
+---
+
 [![agigi's 42 stats](https://badge42.vercel.app/api/v2/cl3q4u0r5005409lils03jkws/stats?cursusId=21&coalitionId=92)](https://github.com/JaeSeoKim/badge42)
 
 
