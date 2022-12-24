@@ -14,11 +14,11 @@
 
 ---
 ### :man_technologist: About Me :
-I am a C++/Java Developer.
+I am a C++/Go Developer.
 
 - 🔭 I’m currently working as C++ Developer.
 - 🎓 I’m currently studying at <code>School 21 (École 42)</code>
-- 🌱 I’m currently learning <code>C++</code> and <code>Java</code>
+- 🌱 I’m currently learning <code>C++</code> and <code>Go</code>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriigubin) or zgudimz@gmail.com
 
 ---
