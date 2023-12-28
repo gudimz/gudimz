@@ -18,7 +18,7 @@ I am a C++/Go Developer.
 
 - 🔭 I’m currently working as Go Developer.
 - 🎓 I finished <code>School 21 (École 42)</code>
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriigubin) or zgudimz@gmail.com
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dmitriigubin) or [gmail](zgudimz@gmail.com)
 
 ---
 
