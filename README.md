@@ -18,7 +18,7 @@ I am a C++/Go Developer.
 
 - 🔭 I’m currently working as Go Developer.
 - 🎓 I finished <code>School 21 (École 42)</code>
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dmitriigubin) or [gmail](zgudimz@gmail.com)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dmitriigubin) or [gmail](https://zgudimz@gmail.com)
 
 ---
 
@@ -47,9 +47,3 @@ I am a C++/Go Developer.
 ---
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gudimz?theme=dark&font=Fira%20Code)
-
----
-
-[![agigi's 42 stats](https://badge42.vercel.app/api/v2/cl3q4u0r5005409lils03jkws/stats?cursusId=21&coalitionId=92)](https://github.com/JaeSeoKim/badge42)
-
-
